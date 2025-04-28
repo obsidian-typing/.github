@@ -1,4 +1,4 @@
-# Obsidian Typing Plugin
+# github.com/obsidian-typing/
 The most comprehensive tool to customize groups of notes in Obsidian
 
 > [!NOTE]
