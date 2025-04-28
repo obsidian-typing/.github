@@ -1,6 +1,3 @@
-# github.com/obsidian-typing/
-The most comprehensive tool to customize groups of notes in Obsidian
-
 > [!NOTE]
 > This is a fork of the excellent original [`konodyuk/obsidian-typing`](https://github.com/konodyuk/obsidian-typing)
 > plugin by [Nikita Konodyuk](https://github.com/konodyuk) which seems to not be actively maintained anymore.
